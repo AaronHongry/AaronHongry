@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aaron Hong</h1>
-<h3 align="center">A passionate full-stack developer from Toronto, Ontario!</h3>
+<h1 align="left">Hey there! 👋 
+<h1>I'm Aaron Hong</h1>
+<h3 align="">A passionate full-stack developer from Toronto, Ontario!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
